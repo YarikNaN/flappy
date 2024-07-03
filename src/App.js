@@ -148,7 +148,4 @@ const Startboard = styled.div`
   font-weight: 600;
 `;
 
-const ScoreShow = styled.div`
-  text-align: center;
-  background: transparent;
-`;
+
